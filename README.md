@@ -7,5 +7,5 @@ The network architecture of Pyraformer.
 ![image](https://user-images.githubusercontent.com/1535119/172119363-6e46aea5-571f-40a1-a8b6-6f52f499d6f9.png)
 
 
-# Project
+# Project Links
 https://github.com/alipay/Pyraformer 
